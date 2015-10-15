@@ -12,7 +12,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
  def siteUrl = 'https://github.com/shareme/GWSIndiaInk'
  def gitUrl = 'https://github.com/shareme/GWSIndiaInk.git'
- group = "com.github.shareme.GWSIndiaInk"
+ group = "com.github.shareme"
 
 
 
